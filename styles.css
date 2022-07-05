@@ -1,0 +1,36 @@
+#pgtitle {
+    background-color: grey;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+.pg1 {
+    background-color: pink;
+    color: white;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+.pg2 {
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.pg3 {
+    background-color: magenta;
+    color: white;
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.pg4 {
+    background-color: purple;
+    color: white;
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
